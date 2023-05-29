@@ -1,0 +1,17 @@
+.cart{
+    position: sticky;
+    top: 0;
+}
+
+.cart-title{
+    margin-top: 25px;
+    text-align: center;
+}
+.cart-info{
+    margin-top: 45px;
+    padding: 0px 23px;
+}
+
+.cart-info p{
+    font-size: 17px;
+}

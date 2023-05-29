@@ -1,0 +1,103 @@
+.container{
+    
+    width: 500px;
+    height: 600px;
+    border: 1px solid #95A0A7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    margin: 20px auto;
+
+
+}
+
+.login-container{
+    margin: 0 auto;
+}
+
+.form-title{
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 42px;
+    letter-spacing: 0.0025em;
+    color: #2A414F;
+    text-align: center;
+}
+
+.form-control{
+    margin: 20px 42px;
+}
+
+.form-control label{
+    display: block;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 20px;
+    letter-spacing: 0.0015em;
+    margin-top: 20px;
+
+color: #2A414F;
+}
+.form-control input{
+    margin-top: 10px;
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95A0A7;
+    border-radius: 5px;
+    font-size: 1.5rem;
+}
+
+.btn-submit{
+    width: 420px;
+    height: 55px;
+    margin-top: 44px;
+    background: rgba(255, 153, 0, 0.3);
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    border: none;
+}
+
+.btn-submit:hover{
+    background: rgba(255, 153, 0, 0.6);
+}
+
+.link-text{
+    text-align: center;
+}
+
+.link-link{
+    color:rgba(255, 153, 0, 0.9) ;
+}
+
+.line{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0px 35px;
+}
+.hr-line{
+    width: 145px;
+    height: 0px;
+    border: 1px solid #95A0A7;
+}
+.hr-text{
+    color: rgba(149, 160, 167, 1);
+}
+
+.btn-submit-google{
+    width: 420px;
+    height: 55px;
+    margin-top: 20px;
+    margin-left: 42px;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 21px;
+    line-height: 25px;
+    letter-spacing: 0.0015em;
+    color: #0E161A;
+    border: 1px solid #95A0A7 ;
+    background-color: white;
+}
